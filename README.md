@@ -1,2 +1,2 @@
 # link to view my portfolio image
-file:///C:/Users/LOUISA/Documents/Tutorial%20practice/portfolio/portfolio/index.html
+https://drive.google.com/file/d/1UjAhkodQUo9p-X141z_RtDvcf2OqJayH/view?usp=sharing  
